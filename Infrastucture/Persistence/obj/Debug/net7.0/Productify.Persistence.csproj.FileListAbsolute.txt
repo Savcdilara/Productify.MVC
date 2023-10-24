@@ -1,0 +1,15 @@
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\bin\Debug\net7.0\Productify.Persistence.deps.json
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\bin\Debug\net7.0\Productify.Persistence.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\bin\Debug\net7.0\Productify.Persistence.pdb
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\bin\Debug\net7.0\Productify.Domain.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\bin\Debug\net7.0\Productify.Domain.pdb
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.csproj.AssemblyReference.cache
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.AssemblyInfoInputs.cache
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.AssemblyInfo.cs
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.csproj.CopyComplete
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\refint\Productify.Persistence.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\Productify.Persistence.pdb
+C:\Users\savcd\source\repos\Core\YetGen_5_1\Infrastucture\Persistence\obj\Debug\net7.0\ref\Productify.Persistence.dll

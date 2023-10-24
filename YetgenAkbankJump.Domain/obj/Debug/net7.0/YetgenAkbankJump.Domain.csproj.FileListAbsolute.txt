@@ -1,0 +1,11 @@
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\bin\Debug\net7.0\YetgenAkbankJump.Domain.deps.json
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\bin\Debug\net7.0\YetgenAkbankJump.Domain.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\bin\Debug\net7.0\YetgenAkbankJump.Domain.pdb
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\YetgenAkbankJump.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\YetgenAkbankJump.Domain.AssemblyInfoInputs.cache
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\YetgenAkbankJump.Domain.AssemblyInfo.cs
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\YetgenAkbankJump.Domain.csproj.CoreCompileInputs.cache
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\YetgenAkbankJump.Domain.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\refint\YetgenAkbankJump.Domain.dll
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\YetgenAkbankJump.Domain.pdb
+C:\Users\savcd\source\repos\Core\YetGen_5_1\YetgenAkbankJump.Domain\obj\Debug\net7.0\ref\YetgenAkbankJump.Domain.dll
